@@ -1,6 +1,6 @@
 # Parameter_Optimisation
 
-SVM Parameter Optimization Assignment UCS654
+##SVM Parameter Optimization Assignment UCS654
 
 📌 Project Title
 
@@ -39,10 +39,12 @@ The results are summarized in a structured format, showing performance metrics f
 
 
 ✅ Conclusion
+
 SVM performs well with properly scaled features.
 Parameter tuning via GridSearchCV significantly improves model accuracy.
 Visualization helps in understanding the dataset distribution and model behavior.
 🛠️ Libraries Used
+
 pandas
 numpy
 matplotlib
