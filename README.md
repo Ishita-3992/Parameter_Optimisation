@@ -1,6 +1,6 @@
 # Parameter_Optimisation
 
-##SVM Parameter Optimization Assignment UCS654
+SVM Parameter Optimization Assignment UCS654
 
 📌 Project Title
 
@@ -24,11 +24,14 @@ Parameter Optimization
 
 A GridSearchCV is used to perform hyperparameter tuning over a specified parameter grid (e.g., C, gamma, and kernel).
 Cross-validation is used to ensure the generalizability of the model.
+
 Model Evaluation
 
 Accuracy score is used as the primary performance metric.
 Additional visualizations (like count plots) are created using seaborn to explore class distributions.
+
 📊 Result Table
+
 The results are summarized in a structured format, showing performance metrics for each parameter combination. The best parameter set is selected based on the highest cross-validated accuracy.
 
 ![output](output.png)
@@ -43,10 +46,15 @@ The results are summarized in a structured format, showing performance metrics f
 SVM performs well with properly scaled features.
 Parameter tuning via GridSearchCV significantly improves model accuracy.
 Visualization helps in understanding the dataset distribution and model behavior.
+
 🛠️ Libraries Used
 
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
