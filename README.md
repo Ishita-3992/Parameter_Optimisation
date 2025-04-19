@@ -1,13 +1,17 @@
 # Parameter_Optimisation
 
 SVM Parameter Optimization Assignment UCS654
+
 📌 Project Title
+
 Support Vector Machine (SVM) Parameter Optimization Using GridSearchCV
 
 📁 Dataset
+
 The dataset used in this assignment includes a classification problem where the target variable is quality. The features are preprocessed using StandardScaler for normalization.
 
 🧪 Methodology
+
 Data Preprocessing
 
 The dataset is loaded using pandas.
