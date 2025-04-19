@@ -31,10 +31,12 @@ Additional visualizations (like count plots) are created using seaborn to explor
 📊 Result Table
 The results are summarized in a structured format, showing performance metrics for each parameter combination. The best parameter set is selected based on the highest cross-validated accuracy.
 
-image
+![output](output.png)
 
-📈 Result Graphs
-image
+![graph](graph.png)
+
+
+
 
 ✅ Conclusion
 SVM performs well with properly scaled features.
